@@ -1,4 +1,4 @@
-#include<stdio.h>
+1#include<stdio.h>
 
 void main(){
 	printf("This is Report Cards.c\n");
